@@ -2,7 +2,7 @@ function generateMarkdown(data) {
   return `
 # ${data.title}
 
-[![GitHub license](https://www.nypl.org/sites/default/files/Readme_social.gif)]
+![GitHub license](https://www.nypl.org/sites/default/files/Readme_social.gif)
 
   ===================
 
@@ -32,31 +32,31 @@ function generateMarkdown(data) {
 
 ---------------------
 
-  ## Installation
+## Installation
 
   These are the instructions in order to install this repo: ${data.installation}.
 
-  ## Usage
+## Usage
   
   This project can be used for generating any type of README.md file for any desired repository.
 
-  ## Motivation
+## Motivation
 
   ${data.motivation} motivated me to create this repo.
 
-  ## License
+## License
 
   This project contains the ${data.license} license.
 
-  ## Contributing
+## Contributing
 
   Nick Phillips.
 
-  ## Tests
+## Tests
 
   Enter the "npm run test" command into Terminal or Git Bush to perform a test.
 
-  ## Questions
+## Questions
 
   <img src="${data.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
 
