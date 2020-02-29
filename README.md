@@ -1,6 +1,6 @@
 # READMEGenerator
 
-[![GitHub license](https://www.nypl.org/sites/default/files/Readme_social.gif)]
+![GitHub license](https://www.nypl.org/sites/default/files/Readme_social.gif)
 
   ===================
 
